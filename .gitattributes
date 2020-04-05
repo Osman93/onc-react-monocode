@@ -1,2 +1,2 @@
 *.pbxproj -text
-*.Objective-C linguist-language=JavaScript
+* linguist-language=JavaScript
